@@ -5,5 +5,18 @@
     <link>https://raw.githubusercontent.com/bm888/dark-light-switcher-releases/main/appcast.xml</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
+    <item>
+      <title>Version 1.0.32</title>
+      <pubDate>Sun, 19 Jul 2026 16:42:59 +0000</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/bm888/dark-light-switcher-releases/releases/download/v1.0.32/DarkLightSwitcher-1.0.32.zip"
+        sparkle:edSignature="U7uxRTnXQP7A1zovpiqTcT8sY07uEu+9qV4fguOIEy9NG3qtjwPTgx9WIrPreMfTS/CKYv60Pa/3C9YNmQRPCQ=="
+        length="1249767"
+        type="application/octet-stream" />
+    </item>
+
   </channel>
 </rss>
