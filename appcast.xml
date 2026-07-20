@@ -44,5 +44,18 @@
         type="application/octet-stream" />
     </item>
 
+    <item>
+      <title>Version 1.0.43</title>
+      <pubDate>Mon, 20 Jul 2026 11:57:30 +0000</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>1.0.43</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/bm888/dark-light-switcher-releases/releases/download/v1.0.43/DarkLightSwitcher-1.0.43.zip"
+        sparkle:edSignature="lPlMsg5zQXcnLxqc17jrhadq2JLrBKEbAtEf5M5WZxSHn/7cultdtsZv0OGdPhZtnP5tqZnrp4OJRS2QSVN9Bw=="
+        length="1301219"
+        type="application/octet-stream" />
+    </item>
+
   </channel>
 </rss>
